@@ -10,7 +10,7 @@ const nextConfig = {
       },
       {
         protocol: "https",
-        hostname: "**",
+        hostname: "demo-hotel-delta.vercel.app",
         pathname: "/images/**",
       },
     ],
