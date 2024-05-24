@@ -1,4 +1,4 @@
-export const WEBSITE_URL = "http://localhost:3000";
+export const WEBSITE_URL = "https://demo-hotel-delta.vercel.app";
 
 export const AMENITIES = [
   {
